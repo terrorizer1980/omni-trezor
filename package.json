@@ -4,9 +4,9 @@
   "private": true,
   "homepage" : "https://trezor.github.io/omni-trezor",
   "dependencies": {
-    "@fortawesome/fontawesome-svg-core": "^1.2.32",
-    "@fortawesome/free-solid-svg-icons": "^5.15.1",
-    "@fortawesome/react-fontawesome": "^0.1.12",
+    "@fortawesome/fontawesome-svg-core": "^1.2.36",
+    "@fortawesome/free-solid-svg-icons": "^5.15.4",
+    "@fortawesome/react-fontawesome": "^0.1.16",
     "bulma": "^0.7.5",
     "node-sass": "^4.14.1",
     "react": "^16.14.0",
