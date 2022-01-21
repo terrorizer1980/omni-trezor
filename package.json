@@ -12,7 +12,7 @@
     "react": "^16.14.0",
     "react-dom": "^16.14.0",
     "react-scripts": "3.0.1",
-    "trezor-connect": "^8.1.17"
+    "trezor-connect": "^8.2.4"
   },
   "scripts": {
     "start": "react-scripts start",
